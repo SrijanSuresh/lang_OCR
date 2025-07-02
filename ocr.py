@@ -5,7 +5,7 @@ reader = easyocr.Reader(['en', 'ja'])
 
 def ocr_image(image):
     results = reader.readtext(image)
-    return [text for text, _, _ in results]
+    return [text for _, text, _ in results]
 
 if __name__ == "__main__":
     img = capture_screen()

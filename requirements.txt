@@ -2,3 +2,10 @@ mss
 numpy
 opencv-python
 easyocr
+transformers
+cmake==3.27.0
+sentencepiece
+torch
+sentencepiece
+sacremoses
+

@@ -15,3 +15,9 @@
 - transformer pipeline requires sentencepiece
 - sentencepiece is incompatible with python 3.13 at this time
 - resolution to sentencepiece incompatibility is to install cmake 3.27
+
+# Step 4: Combining all into single code and testing
+- called Capture
+- called OCR
+- called Translate
+- purpose works as of now

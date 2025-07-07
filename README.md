@@ -2,7 +2,7 @@
 
 A sophisticated real-time screen capture and translation system that performs OCR (Optical Character Recognition) and instant translation overlay on live video feeds. Built with Python, OpenCV, and modern web technologies.
 
-![Demo](image.png)
+![Demo](https://github.com/user-attachments/assets/bc771635-8a8a-4db2-8761-3ca33fdb5f04)
 
 ##  Features
 

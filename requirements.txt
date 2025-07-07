@@ -8,4 +8,5 @@ sentencepiece
 torch
 sentencepiece
 sacremoses
-
+flask
+pillow
